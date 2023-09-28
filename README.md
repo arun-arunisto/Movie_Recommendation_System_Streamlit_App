@@ -15,7 +15,9 @@ After clone this repository, use your key from tmdb and run the below code
 <code>streamlit run app.py</code>
 Any doubts regarding the app contact me!!
 <br>
+
 ## Screenshots:
+
 <br>
 
 ![Screenshot (69).png](Screenshot%20%2869%29.png)
